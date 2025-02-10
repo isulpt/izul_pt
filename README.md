@@ -17,9 +17,9 @@ class About extends Me {
 ```
 
 
-- 🔭 I’m currently working on [Vorusa Mini 3d Printer](https://github.com/isulpt/vorusa_mini)
+- 🔭 I’m currently working on [Vorusa Mini 3d Printer](https://github.com/izul-pt/vorusa_mini)
 - 🌱 I’m currently learning **Django**
-- 👨‍💻 All of my projects are available at [Here](https://github.com/isulpt?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/izul-pt?tab=repositories)
 - 📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/lviegaspt/)
 - 💬 Ask me about **3D printing, movies or anything.**
 - ⚡ Fun fact **Did you know 'desserts' spelled backward is 'stressed'? No wonder I feel that way when I don’t get a dessert after lunch! 😂**
