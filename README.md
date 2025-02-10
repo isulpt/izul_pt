@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm izul_pt</h1>
+<h1 align="center">Hi 👋, I'm izul-pt</h1>
 <h3 align="center">A passionate enthusiast of web programming, Arduino, Linux, modeling, and 3D printing from Portugal</h3>
 
 ```javascript
